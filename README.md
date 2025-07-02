@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DrishtiBehune/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/DrishtiBehune/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+## Greedy
+|  |
+| ------- |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/DrishtiBehune/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 <!---LeetCode Topics End-->
