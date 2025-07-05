@@ -7,21 +7,11 @@ class Solution {
         int i;
              // for prefix 
              for(i=0;i<n;i++){
-                if(i==0){
-                    prefix[i] = nums[i];
-                }
-                else{
-                    prefix[i] = nums[i] * prefix[i-1];
-                }
+                prefix[i]= (i== 0? 1 : prefix[i-1])*nums[i];
              }
              //for suffix
              for(i=n-1;i>=0;i--){
-                if(i==n-1){
-                    suffix[i] = nums[i];
-                }
-                else{
-                    suffix[i] = nums[i] * suffix[i+1];
-                }
+              suffix[i]= (i== n-1? 1 : suffix[i+1])*nums[i];
                 
              }
               //result
