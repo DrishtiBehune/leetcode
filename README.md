@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DrishtiBehune/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DrishtiBehune/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DrishtiBehune/leetcode/tree/master/0035-search-insert-position) |
+| [0238-product-of-array-except-self](https://github.com/DrishtiBehune/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/DrishtiBehune/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Greedy
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DrishtiBehune/leetcode/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/DrishtiBehune/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
