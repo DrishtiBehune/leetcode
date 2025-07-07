@@ -17,7 +17,9 @@ class Solution {
            arr[i] = arr[i-2] + arr[i-1] ;
         }
         
+        sum = arr[n-1] + arr[n-2];
+        return sum;
            
-           return arr[n];
+           
     }
 }
