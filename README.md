@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DrishtiBehune/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/DrishtiBehune/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/DrishtiBehune/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/DrishtiBehune/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/DrishtiBehune/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Greedy
 |  |
