@@ -1,7 +1,7 @@
 import java.util.Arrays;
 class Solution {
     public int majorityElement(int[] nums) {
-        int count = 0;
+        int count = 1;
         int n = nums.length;
         int first = 0;
         int i ;
@@ -16,7 +16,10 @@ class Solution {
         if(nums[i]==nums[i-1]){
          count++ ;
             }
-             if(result<=count){
+            if(nums[i] > nums[i-1]){
+                count = 1;
+            }
+             if(result<count){
                 return nums[i];
         }
       }
