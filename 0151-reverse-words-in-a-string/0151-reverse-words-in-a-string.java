@@ -5,7 +5,7 @@ class Solution {
        String reversed = "";
        int n = words.length;
        for(i = n-1; i>=0;i--){
-      reversed = reversed + words[i]+" ";
+      reversed = reversed + words[i]+ " ";
        }
        return reversed.trim();
     }
