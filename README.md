@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DrishtiBehune/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/DrishtiBehune/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DrishtiBehune/leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/DrishtiBehune/leetcode/tree/master/1013-fibonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/DrishtiBehune/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Recursion
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DrishtiBehune/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/DrishtiBehune/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DrishtiBehune/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DrishtiBehune/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DrishtiBehune/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DrishtiBehune/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DrishtiBehune/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DrishtiBehune/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/DrishtiBehune/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DrishtiBehune/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DrishtiBehune/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DrishtiBehune/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DrishtiBehune/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DrishtiBehune/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
