@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DrishtiBehune/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DrishtiBehune/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/DrishtiBehune/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/DrishtiBehune/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/DrishtiBehune/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/DrishtiBehune/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
