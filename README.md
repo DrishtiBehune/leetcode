@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DrishtiBehune/leetcode/tree/master/0792-binary-search) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/DrishtiBehune/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/DrishtiBehune/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1603-running-sum-of-1d-array](https://github.com/DrishtiBehune/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/DrishtiBehune/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/DrishtiBehune/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/DrishtiBehune/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DrishtiBehune/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/DrishtiBehune/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
