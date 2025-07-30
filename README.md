@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DrishtiBehune/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DrishtiBehune/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/DrishtiBehune/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/DrishtiBehune/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/DrishtiBehune/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/DrishtiBehune/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/DrishtiBehune/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DrishtiBehune/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/DrishtiBehune/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/DrishtiBehune/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DrishtiBehune/leetcode/tree/master/0169-majority-element) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/DrishtiBehune/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String Matching
 |  |
 | ------- |
