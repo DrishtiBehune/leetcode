@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DrishtiBehune/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DrishtiBehune/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/DrishtiBehune/leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/DrishtiBehune/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/DrishtiBehune/leetcode/tree/master/1013-fibonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/DrishtiBehune/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DrishtiBehune/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/DrishtiBehune/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DrishtiBehune/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/DrishtiBehune/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/DrishtiBehune/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DrishtiBehune/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DrishtiBehune/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DrishtiBehune/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DrishtiBehune/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DrishtiBehune/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
