@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DrishtiBehune/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/DrishtiBehune/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/DrishtiBehune/leetcode/tree/master/0204-count-primes) |
+| [0264-ugly-number-ii](https://github.com/DrishtiBehune/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/DrishtiBehune/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DrishtiBehune/leetcode/tree/master/0342-power-of-four) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DrishtiBehune/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DrishtiBehune/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DrishtiBehune/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/DrishtiBehune/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DrishtiBehune/leetcode/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DrishtiBehune/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/DrishtiBehune/leetcode/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/DrishtiBehune/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DrishtiBehune/leetcode/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/DrishtiBehune/leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
